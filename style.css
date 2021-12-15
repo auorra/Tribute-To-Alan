@@ -8,6 +8,18 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 
+#title {
+	text-align: center;
+	padding: 25px;
+}
+
+.images {
+	display: flex;
+}
+
+
+
+
 #tribute-info {
 	text-align: center;
 }
