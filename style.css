@@ -24,6 +24,7 @@ body {
 	
 }
 
+/*Center*/
 .img-div2 {
 	position: absolute;
 	top: 350px;
@@ -39,6 +40,7 @@ body {
 	transform: rotate(-20deg);
 }
 
+/*Aged 16*/
 .img-div4 {
 	position: absolute;
 	top: 300px;
@@ -46,6 +48,7 @@ body {
 
 }
 
+/*Running*/
 .img-div5 {
 	position: absolute;
 	top: 250px;
@@ -53,7 +56,7 @@ body {
 	transform: rotate(20deg);
 }
 
-
+/*Aged 5*/
 .img-div6 {
 	position: absolute;
 	top: 500px;
