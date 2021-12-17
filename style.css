@@ -16,9 +16,49 @@ body {
 }
 
 .images {
+	margin: 7%;
+}
+
+.img-div1 {
+	position: absolute;
+	
+}
+
+.img-div2 {
+	position: absolute;
+	top: 350px;
+	left: 350px;
+	
+	transform: rotate(5deg);
+}
+
+.img-div3 {
+	position: absolute;
+	top: 560px;
+	left: 400px;
+	transform: rotate(-20deg);
+}
+
+.img-div4 {
+	position: absolute;
+	top: 300px;
+	left: 800px;
 
 }
 
+.img-div5 {
+	position: absolute;
+	top: 250px;
+	left: 1200px;
+	transform: rotate(20deg);
+}
+
+
+.img-div6 {
+	position: absolute;
+	top: 500px;
+	left: 1200px;
+}
 
 #tribute-info {
 	text-align: center;
