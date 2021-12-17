@@ -19,8 +19,9 @@ body {
 	margin: 7%;
 }
 
+/*First main pic*/
 .img-div1 {
-	position: absolute;
+	position: relative;
 	
 }
 
@@ -36,7 +37,7 @@ body {
 	position: absolute;
 	top: 560px;
 	left: 600px;
-	transform: rotate(-20deg);
+	transform: rotate(-15deg);
 }
 
 /*Aged 16*/
@@ -59,7 +60,7 @@ body {
 .img-div6 {
 	position: absolute;
 	top: 500px;
-	left: 1200px;
+	left: 1100px;
 }
 
 #tribute-info {
