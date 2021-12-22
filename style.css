@@ -20,7 +20,10 @@ body {
 }
 
 /*First main pic*/
-
+.img-div1 {
+	position: relative;
+	
+}
 
 
 /*Center*/
