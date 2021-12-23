@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Roboto:ital,wght@0,300;0,400;1,300&display=swap');
 
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+
 body {
 	font-size: 1rem;
 	line-height: 1.5;
@@ -16,13 +22,13 @@ body {
 }
 
 .images {
-	margin: 7%;
+	margin: 2%;
 }
 
 /*First main pic*/
 .img-div1 {
 	position: relative;
-	
+	transform: rotate(10deg);
 }
 
 
