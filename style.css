@@ -83,10 +83,21 @@ li {
 	list-style-type: none;
 }
 
-h1, h3 {
+h1, h2 {
 	font-family: 'Bakbak One', cursive;
 }
 
-h3 {
+h2 {
 	padding-bottom: 4%;
 }
+
+.quote {
+	margin-top: 55px;
+	text-align: center;
+}
+
+.learn-more {
+	text-align: center;
+	margin-bottom: 5%;
+}
+
