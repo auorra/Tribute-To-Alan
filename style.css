@@ -6,7 +6,7 @@
 }
 
 body {
-	font-size: 1rem;
+	font-size: 18px;
 	line-height: 1.5;
 	margin: 0;
 	font-family: 'Roboto', sans-serif;
@@ -83,6 +83,10 @@ li {
 	list-style-type: none;
 }
 
+h1 {
+	font-size: 3rem;
+}
+
 h1, h2 {
 	font-family: 'Bakbak One', cursive;
 }
@@ -106,3 +110,9 @@ h2 {
 	color: blanchedalmond;
 	font-weight: lighter;
 }
+
+footer {
+	text-align: center;
+	font-size: 16px;
+}
+
