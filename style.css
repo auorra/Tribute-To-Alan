@@ -70,6 +70,12 @@ body {
 	left: 1100px;
 }
 
+.img-div7 {
+	position: absolute;
+	top: 600px;
+	left: 400px;
+}
+
 img {
 	border: 10px solid #fff;
 }
