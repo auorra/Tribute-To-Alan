@@ -83,6 +83,7 @@ body {
 	top: 700px;
 	left: 100px;
 	z-index: -1;
+	transform: rotate(-10deg);
 }
 
 .img-div9 {
@@ -95,8 +96,8 @@ body {
 /*The machine*/
 .img-div10 {
 	position: absolute;
-	top: 1200px;
-	left: 100px;
+	top: 1000px;
+	left: 350px;
 }
 
 img {
