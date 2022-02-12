@@ -102,6 +102,11 @@ body {
 	left: 350px;
 }
 
+img {
+	border: 4px solid #000;
+	box-shadow: #000;
+}
+
 #tribute-info {
 	text-align: center;
 	max-width: 850px;
